@@ -1,0 +1,6 @@
+📁 kidney-stone/
+├── kidney_app.py
+├── kidney-stone-dataset.csv
+├── best_decision_tree_model.pkl
+├── scaler.pkl
+└── requirements.txt
